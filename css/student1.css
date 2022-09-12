@@ -1,0 +1,33 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ nav ul li{
+    
+    margin-left: 25px;
+    background-color: lightseagreen;
+    list-style-type: upper-roman;
+    border: solid 1px black;
+    border-style: round;
+    padding: 10px;
+    border-radius: 70px;
+    display: inline-block;
+    margin: 5px;
+ }
+ 
+ main img {
+    /* size: 24%; */
+    width: 24%;
+    padding: 15px;
+    border: dotted 4px yellow;
+    box-sizing: border-box;
+ }
+ 
+ main p{
+    color: red;
+    size: 13px;
+    background-color: aqua;
+    font: comic;
+ }
